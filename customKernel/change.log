@@ -1,0 +1,21 @@
+# Version 0.7b
+
+Fix error detecting during archive unpacking [TODO]
+Communicates clean up[TODO] 
+Multi language support.[TODO]
+New detection method of compiled kernel existents.
+
+# Version 0.6b
+
+Restarting with prompt parameters.
+Rewrite prompt parameters support.
+Some code clean ups.
+Detected and removed nvidia purge error.
+Change Compilation range to avoid errors, no info about time and cleaning.
+
+# Version 0.5b
+
+More error checking.
+Some clean ups.
+Add support for launch parameters (version,help,install-only,compile-only,install-packets).
+

@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Instalacja}{3}
+\contentsline {subsection}{\numberline {1.1}Sk\IeC {\k a}d wzi\IeC {\k a}\IeC {\'c} kernel?}{3}
+\contentsline {section}{\numberline {2}Konfiguracja}{4}
+\contentsline {section}{\numberline {3}Dzia\IeC {\l }anie}{5}
+\contentsline {subsection}{\numberline {3.1}Parametry startowe}{5}
+\contentsline {section}{\numberline {4}Problemy}{6}
+\contentsline {section}{\numberline {5}B\IeC {\l }\IeC {\k e}dy}{7}
+\contentsline {section}{\numberline {6}Do zrobienia}{8}

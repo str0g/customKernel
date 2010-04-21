@@ -1,0 +1,19 @@
+Scripts is being done with bash 3.41 for ubuntu 9.04
+Licenses: GNU/General Public License
+Language: Polish only.
+Script works step by step in order:
+Check if I am root.
+Loading config.conf [config.conf keeps settings for compilation]
+Create log file.
+Install dependences if user would like to compile kernel.
+Archive is being unpack.
+Useless file are being deleted
+If there was no previous config-2.6-*-generic for kernel, config-2.6-*-generic of current kernel is going to be use.
+Compiling set up menu if there was no error.
+After work with Kernel Compilation menu, Kernel will be compiled.
+Clean Up after compilation.
+Install if you choose to do so.
+Show summary.
+Close after delay.
+
+To get more info about options launch with -h option.
